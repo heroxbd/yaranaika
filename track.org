@@ -1,0 +1,14 @@
+* Resources
+** possible tools
+   - HEP.TrkX
+     https://heptrkx.github.io/
+** Detector model
+   - Basic
+     Semiconductor systems by Helmuth Spieler
+** Related Workshop
+   - 2018
+     https://indico.cern.ch/event/658267/
+** Official Channel
+   - https://sites.google.com/site/trackmlparticle/
+   - https://indico.cern.ch/event/702054/
+   - Kaggle, to be released.
